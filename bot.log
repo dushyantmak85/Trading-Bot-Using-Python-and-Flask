@@ -1,0 +1,106 @@
+2025-05-13 17:52:00,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 17:52:00,191 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 17:52:00,193 - INFO -  * Restarting with stat
+2025-05-13 17:52:02,126 - WARNING -  * Debugger is active!
+2025-05-13 17:52:02,132 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 17:52:10,843 - INFO - 127.0.0.1 - - [13/May/2025 17:52:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-13 17:52:11,041 - INFO - 127.0.0.1 - - [13/May/2025 17:52:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-13 17:52:11,070 - INFO - 127.0.0.1 - - [13/May/2025 17:52:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-13 17:52:11,175 - INFO - 127.0.0.1 - - [13/May/2025 17:52:11] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=pcbrNUeSVeWxEg4xHip5 HTTP/1.1" 200 -
+2025-05-13 17:52:11,515 - INFO - 127.0.0.1 - - [13/May/2025 17:52:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-13 17:54:36,232 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 17:54:36,232 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 17:54:36,235 - INFO -  * Restarting with stat
+2025-05-13 17:54:38,406 - WARNING -  * Debugger is active!
+2025-05-13 17:54:38,410 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 17:54:46,030 - INFO - 127.0.0.1 - - [13/May/2025 17:54:46] "GET / HTTP/1.1" 200 -
+2025-05-13 17:54:46,471 - INFO - 127.0.0.1 - - [13/May/2025 17:54:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-13 17:56:50,873 - INFO - 127.0.0.1 - - [13/May/2025 17:56:50] "GET / HTTP/1.1" 200 -
+2025-05-13 18:29:51,441 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:29:51,667 - INFO -  * Restarting with stat
+2025-05-13 18:29:53,416 - WARNING -  * Debugger is active!
+2025-05-13 18:29:53,422 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:29:55,448 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:29:55,549 - INFO -  * Restarting with stat
+2025-05-13 18:31:41,357 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-13 18:31:41,357 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-13 18:31:41,359 - INFO -  * Restarting with stat
+2025-05-13 18:31:42,777 - WARNING -  * Debugger is active!
+2025-05-13 18:31:42,780 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:31:49,908 - INFO - 127.0.0.1 - - [13/May/2025 18:31:49] "GET / HTTP/1.1" 200 -
+2025-05-13 18:33:04,522 - INFO - 127.0.0.1 - - [13/May/2025 18:33:04] "GET / HTTP/1.1" 200 -
+2025-05-13 18:34:29,404 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:34:29,521 - INFO -  * Restarting with stat
+2025-05-13 18:34:31,283 - WARNING -  * Debugger is active!
+2025-05-13 18:34:31,286 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:34:35,328 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:34:35,429 - INFO -  * Restarting with stat
+2025-05-13 18:34:36,913 - WARNING -  * Debugger is active!
+2025-05-13 18:34:36,917 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:34:46,963 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:34:47,050 - INFO -  * Restarting with stat
+2025-05-13 18:34:48,457 - WARNING -  * Debugger is active!
+2025-05-13 18:34:48,460 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:34:52,485 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:34:52,587 - INFO -  * Restarting with stat
+2025-05-13 18:34:54,062 - WARNING -  * Debugger is active!
+2025-05-13 18:34:54,066 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:34:56,080 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:34:56,158 - INFO -  * Restarting with stat
+2025-05-13 18:34:57,565 - WARNING -  * Debugger is active!
+2025-05-13 18:34:57,568 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:34:58,581 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:34:58,679 - INFO -  * Restarting with stat
+2025-05-13 18:35:00,303 - WARNING -  * Debugger is active!
+2025-05-13 18:35:00,306 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:35:01,320 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:35:01,416 - INFO -  * Restarting with stat
+2025-05-13 18:35:02,800 - WARNING -  * Debugger is active!
+2025-05-13 18:35:02,803 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:35:29,900 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:35:29,987 - INFO -  * Restarting with stat
+2025-05-13 18:35:31,555 - WARNING -  * Debugger is active!
+2025-05-13 18:35:31,562 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:35:36,589 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:35:36,671 - INFO -  * Restarting with stat
+2025-05-13 18:35:38,135 - WARNING -  * Debugger is active!
+2025-05-13 18:35:38,140 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:50:47,535 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:50:47,670 - INFO -  * Restarting with stat
+2025-05-13 18:50:49,228 - WARNING -  * Debugger is active!
+2025-05-13 18:50:49,232 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:51:06,294 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:51:06,411 - INFO -  * Restarting with stat
+2025-05-13 18:51:07,956 - WARNING -  * Debugger is active!
+2025-05-13 18:51:07,959 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:51:19,009 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:51:19,116 - INFO -  * Restarting with stat
+2025-05-13 18:51:20,560 - WARNING -  * Debugger is active!
+2025-05-13 18:51:20,566 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:51:55,700 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:51:55,790 - INFO -  * Restarting with stat
+2025-05-13 18:51:57,238 - WARNING -  * Debugger is active!
+2025-05-13 18:51:57,241 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:51:59,257 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:51:59,345 - INFO -  * Restarting with stat
+2025-05-13 18:52:00,753 - WARNING -  * Debugger is active!
+2025-05-13 18:52:00,756 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:52:01,768 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:52:01,971 - INFO -  * Restarting with stat
+2025-05-13 18:52:03,501 - WARNING -  * Debugger is active!
+2025-05-13 18:52:03,505 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:52:43,665 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:52:43,747 - INFO -  * Restarting with stat
+2025-05-13 18:52:45,300 - WARNING -  * Debugger is active!
+2025-05-13 18:52:45,303 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:52:48,323 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:52:48,416 - INFO -  * Restarting with stat
+2025-05-13 18:52:49,842 - WARNING -  * Debugger is active!
+2025-05-13 18:52:49,845 - INFO -  * Debugger PIN: 474-309-879
+2025-05-13 18:53:00,885 - INFO -  * Detected change in 'D:\\PrimeTradeAI Assignment\\trading_bot\\app.py', reloading
+2025-05-13 18:53:00,971 - INFO -  * Restarting with stat
+2025-05-13 18:53:02,498 - WARNING -  * Debugger is active!
+2025-05-13 18:53:02,508 - INFO -  * Debugger PIN: 474-309-879
