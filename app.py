@@ -18,7 +18,7 @@ bot = BasicBot(API_KEY, API_SECRET, testnet=True) # Configuring the bot using ap
 @app.route("/", methods=["GET", "POST"])
 def index():
     result = None
-    if request.method == "POST":
+    if request.method == "POST": #Handling the post requests
         symbol = request.form.get("symbol").upper()
         side = request.form.get("side").upper()
         order_type = request.form.get("order_type").lower()
@@ -36,6 +36,6 @@ def index():
         else:
             result = {"error": "Unsupported order type."}
 
-    return render_template("index.html", result=result)
+    return render_template("index.html", result=result) # Rendering the UI Page 
 if __name__ == "__main__":
     app.run(debug=True)

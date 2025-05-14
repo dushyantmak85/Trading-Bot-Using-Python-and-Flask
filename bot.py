@@ -1,6 +1,7 @@
 from binance.client import Client
 from binance.enums import *
 import logging
+from binance.enums import ORDER_TYPE_MARKET, ORDER_TYPE_LIMIT, ORDER_TYPE_STOP_MARKET
 
 class BasicBot:
     def __init__(self, api_key, api_secret, testnet=True):
@@ -44,7 +45,7 @@ class BasicBot:
             order = self.client.futures_create_order(
                 symbol=symbol,
                 side=side,
-                type=ORDER_TYPE_STOP,
+                type=ORDER_TYPE_STOP_MARKET,
                 quantity=quantity,
                 price=limit_price,
                 stopPrice=stop_price,
